@@ -93,11 +93,11 @@ avec la base de données.Des tests ont été effectués pour valider le bon fonc
 <img src="captures/jpa.jpg">
 
 # Test de la Couche DAO
-<img src="captures/consulterCust.PNG">
+<img src="captures/consulterCust.png">
 <li>Couche Service et DTOs :</li>
 
 1. afficher la liste des clients<br>
-<img src="captures/customers.PNG">
+<img src="captures/customers.png">
 
 2. Afficher les Comptes<br>
 <img src="captures/accounts.PNG">
@@ -105,7 +105,7 @@ avec la base de données.Des tests ont été effectués pour valider le bon fonc
 3. Chercher Un compte<br>
 <img src="captures/chercher_compte.PNG">
 
-4. Afficher les Opération d'un compte<br>
+4. Afficher les Opérations d'un compte<br>
 <img src="captures/Operations.PNG">
 
 
@@ -157,7 +157,7 @@ agit en tant que serveur de ressources sécurisé.
    À chaque fois que l'authentification de base (Basic) est utilisée, lors de l'envoi d'une requête, il est nécessaire d'inclure les informations d'identification (nom d'utilisateur et mot de passe) dans l'en-tête d'autorisation. Ces informations doivent être encodées en Base64.
         
 **Consultation des Clients**
-   <img src="captures/http_client_customer.PNG">
+   <img src="captures/http_client_customer.jpg">
          **Consultation du profil**
   <img src="captures/http_client_profile.PNG">
 
